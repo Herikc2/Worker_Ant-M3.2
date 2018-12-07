@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  FormigaM3.1.cpp
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\formigam3.1.cpp(53): fatal error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "stdafx.h"' à sua fonte?

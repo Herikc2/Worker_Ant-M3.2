@@ -1,0 +1,17 @@
+﻿  FormigaM3.1.cpp
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\libmapa.h(119): warning C4091: 'typedef ': ignorado à esquerda de 'mapa' quando nenhuma variável é declarada
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\libmapa.h(125): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\libmapa.h(133): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\libmapa.h(136): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\libmapa.h(137): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\armazem.h(3): warning C4005: 'CAMINHO_LIVRE': redefinição de macro
+  c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\grafico.h(13): note: consulte a definição anterior de 'CAMINHO_LIVRE'
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\armazem.h(4): warning C4005: 'CAMINHO_PAREDE': redefinição de macro
+  c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\grafico.h(14): note: consulte a definição anterior de 'CAMINHO_PAREDE'
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\armazem.h(6): warning C4005: 'FORMIGA_COM_ALIMENTO': redefinição de macro
+  c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\grafico.h(16): note: consulte a definição anterior de 'FORMIGA_COM_ALIMENTO'
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\formiga.h(7): warning C4005: 'CAMINHO_LIVRE': redefinição de macro
+  c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\armazem.h(3): note: consulte a definição anterior de 'CAMINHO_LIVRE'
+c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\formiga.h(8): warning C4005: 'CAMINHO_PAREDE': redefinição de macro
+  c:\users\6851770\onedrive - univali\formigam3.1\formigam3.1\armazem.h(4): note: consulte a definição anterior de 'CAMINHO_PAREDE'
+  FormigaM3.1.vcxproj -> C:\Users\6851770\OneDrive - UNIVALI\FormigaM3.1\Debug\FormigaM3.1.exe

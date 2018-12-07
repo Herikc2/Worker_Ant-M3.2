@@ -1,0 +1,6 @@
+﻿  FormigaM3.1.cpp
+c:\users\6851770\desktop\quem mexer aqui vai morrer\formigam3.1\formigam3.1\libmapa.h(33): warning C4091: 'typedef ': ignorado à esquerda de 'mapa' quando nenhuma variável é declarada
+c:\users\6851770\desktop\quem mexer aqui vai morrer\formigam3.1\formigam3.1\libmapa.h(40): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\6851770\desktop\quem mexer aqui vai morrer\formigam3.1\formigam3.1\subcontrole.h(281): warning C4309: '=': truncamento de valor constante
+c:\users\6851770\desktop\quem mexer aqui vai morrer\formigam3.1\formigam3.1\telas.h(358): warning C4101: 'evento': variável local não referenciada
+  FormigaM3.1.vcxproj -> C:\Users\6851770\Desktop\QUEM MEXER AQUI VAI MORRER\FormigaM3.1\x64\Debug\FormigaM3.1.exe
